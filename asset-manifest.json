@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prashantsingh94.github.io/csb-n029hh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://prashantsingh94.github.io/csb-n029hh/static/js/main.c208bcbd.chunk.js",
+    "main.js.map": "https://prashantsingh94.github.io/csb-n029hh/static/js/main.c208bcbd.chunk.js.map",
+    "runtime-main.js": "https://prashantsingh94.github.io/csb-n029hh/static/js/runtime-main.aaf8a67e.js",
+    "runtime-main.js.map": "https://prashantsingh94.github.io/csb-n029hh/static/js/runtime-main.aaf8a67e.js.map",
+    "static/js/2.d4e29b65.chunk.js": "https://prashantsingh94.github.io/csb-n029hh/static/js/2.d4e29b65.chunk.js",
+    "static/js/2.d4e29b65.chunk.js.map": "https://prashantsingh94.github.io/csb-n029hh/static/js/2.d4e29b65.chunk.js.map",
+    "index.html": "https://prashantsingh94.github.io/csb-n029hh/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://prashantsingh94.github.io/csb-n029hh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d4e29b65.chunk.js.LICENSE.txt": "https://prashantsingh94.github.io/csb-n029hh/static/js/2.d4e29b65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf8a67e.js",
+    "static/js/2.d4e29b65.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c208bcbd.chunk.js"
+  ]
+}
